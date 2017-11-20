@@ -1,5 +1,5 @@
 {
-  "name": "ratelimit.js",
+  "name": "ratelimit-js",
   "version": "1.8.0",
   "description": "A NodeJS library for efficient rate limiting using sliding windows stored in Redis.",
   "keywords": [
